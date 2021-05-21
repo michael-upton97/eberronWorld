@@ -1,0 +1,104 @@
+{
+  "name": "eberron",
+  "title": "Eberron",
+  "description": "<p><span style=\"color:#242527;font-family:Roboto, Helvetica, sans-serif;font-size:15px;background-color:#f9f9f9\">The adventures of the first Heroes to rise to Eberron's call, during the time of Khyber Dragonshards strange mishaps, a Nobles savage revenge, and a mystery that promises to change the face of Eberron for the rest of time!</span></p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.0.0",
+  "compatibleCoreVersion": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-eberron-spells",
+      "package": "world",
+      "path": "packs/ddb-eberron-spells.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-spells.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Items",
+      "name": "ddb-eberron-items",
+      "package": "world",
+      "path": "packs/ddb-eberron-items.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-items.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-eberron-class-features",
+      "package": "world",
+      "path": "packs/ddb-eberron-class-features.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-class-features.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-eberron-classes",
+      "package": "world",
+      "path": "packs/ddb-eberron-classes.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-classes.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-eberron-racial-traits",
+      "package": "world",
+      "path": "packs/ddb-eberron-racial-traits.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-racial-traits.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-eberron-feats",
+      "package": "world",
+      "path": "packs/ddb-eberron-feats.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-feats.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Races",
+      "name": "ddb-eberron-races",
+      "package": "world",
+      "path": "packs/ddb-eberron-races.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-races.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-eberron-monsters",
+      "package": "world",
+      "path": "packs/ddb-eberron-monsters.db",
+      "system": "dnd5e",
+      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-monsters.db"
+    }
+  ],
+  "languages": [],
+  "authors": [],
+  "keywords": [],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "background": "",
+  "system": "dnd5e",
+  "coreVersion": "0.7.9",
+  "systemVersion": "1.2.4",
+  "nextSession": "2021-05-20T23:00:00.000Z",
+  "availability": 0,
+  "unavailable": false,
+  "id": "eberron"
+}
