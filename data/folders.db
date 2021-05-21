@@ -1,0 +1,5 @@
+{"name":"City Maps","type":"Scene","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#0008ff","_id":"4N4oyLZobs2nZZPM"}
+{"name":"Big Bad Evil Guys","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#ff0000","_id":"RdDrVqU9QPI21TYS"}
+{"name":"Major NPC's","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#007a0e","_id":"S37daJTAtAyPRte7"}
+{"name":"Player Characters","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#0059ff","_id":"iIsnJdjfFQApzxVp"}
+{"_id":"sdnkpfw50MeOAwau","name":"Monsters","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#ff9500"}
