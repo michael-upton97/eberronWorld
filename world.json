@@ -16,7 +16,7 @@
       "package": "world",
       "path": "packs/ddb-eberron-spells.db",
       "system": "dnd5e",
-      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-spells.db"
+      "absPath": "\\packs\\ddb-eberron-spells.db"
     },
     {
       "entity": "Item",
@@ -25,7 +25,7 @@
       "package": "world",
       "path": "packs/ddb-eberron-items.db",
       "system": "dnd5e",
-      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-items.db"
+      "absPath": "\\packs\\ddb-eberron-items.db"
     },
     {
       "entity": "Item",
@@ -34,7 +34,7 @@
       "package": "world",
       "path": "packs/ddb-eberron-class-features.db",
       "system": "dnd5e",
-      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-class-features.db"
+      "absPath": "\\packs\\ddb-eberron-class-features.db"
     },
     {
       "entity": "Item",
@@ -43,7 +43,7 @@
       "package": "world",
       "path": "packs/ddb-eberron-classes.db",
       "system": "dnd5e",
-      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-classes.db"
+      "absPath": "\\packs\\ddb-eberron-classes.db"
     },
     {
       "entity": "Item",
@@ -52,7 +52,7 @@
       "package": "world",
       "path": "packs/ddb-eberron-racial-traits.db",
       "system": "dnd5e",
-      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-racial-traits.db"
+      "absPath": "\\packs\\ddb-eberron-racial-traits.db"
     },
     {
       "entity": "Item",
@@ -61,7 +61,7 @@
       "package": "world",
       "path": "packs/ddb-eberron-feats.db",
       "system": "dnd5e",
-      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-feats.db"
+      "absPath": "\\packs\\ddb-eberron-feats.db"
     },
     {
       "entity": "Item",
@@ -70,7 +70,7 @@
       "package": "world",
       "path": "packs/ddb-eberron-races.db",
       "system": "dnd5e",
-      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-races.db"
+      "absPath": "\\packs\\ddb-eberron-races.db"
     },
     {
       "entity": "Actor",
@@ -79,7 +79,7 @@
       "package": "world",
       "path": "packs/ddb-eberron-monsters.db",
       "system": "dnd5e",
-      "absPath": "C:\\Users\\Lowho\\AppData\\Local\\FoundryVTT\\Data\\worlds\\eberron\\packs\\ddb-eberron-monsters.db"
+      "absPath": "\\packs\\ddb-eberron-monsters.db"
     }
   ],
   "languages": [],
